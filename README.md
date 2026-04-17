@@ -35,6 +35,6 @@ Meeting and collaborating with big celebrities / personas.
 Creating a big project that is noticed and widely used.
 Impact the development world with amazing projects that break everyones expectations.
 ### Looking to step in contact with me - reach out below!
-<img src="https://github.com/user-attachments/assets/276d7793-42f9-41a2-8aa2-6fb111ebc81b" alt="discord" width="24" valign="top"/> - @5vra | 946522988214382662
+E-mail - contact@5vra.com
 #
 ![terminal](https://github.com/user-attachments/assets/77dcc5d9-ab8f-444b-8026-0fad9f0e7085)
