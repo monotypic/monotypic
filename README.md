@@ -25,8 +25,8 @@
 #
 ### Who am I?
 I am a Full-Stack Developer mostly focused on Web Applications and Discord Bots, apart from that I also Moderate / Overlook servers and handle issues within them.
-Founder and Developer of arcon.lol - all-in-one Discord Bot. 
-Founder and Developer of swims.cc - Biolink service offering Twitch / Youtube integrations [ IN-DEVELOPMENT ]
+Founder and Developer of acerbot.xyz - all-in-one Discord Bot. 
+Founder and Developer of swims.cc - Former Biolink service offering Twitch / Youtube integrations [ CLOSED ]
 Lead Developer for many servers and their bots!
 I love creating projects and interacting with people, online most of the time - responses within a day at all times!
 ### What are my goals?
