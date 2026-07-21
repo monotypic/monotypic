@@ -35,6 +35,6 @@ Meeting and collaborating with big celebrities / personas.
 Creating a big project that is noticed and widely used.
 Impact the development world with amazing projects that break everyones expectations.
 ### Looking to step in contact with me - reach out below!
-E-mail - contact@5vra.com
+E-mail - _@5vra.com
 #
 ![terminal](https://github.com/user-attachments/assets/77dcc5d9-ab8f-444b-8026-0fad9f0e7085)
